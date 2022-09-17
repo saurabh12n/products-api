@@ -16,7 +16,7 @@ output application/json
   productId: "12345",
   productName: "Apple",
   productProvider: "Saurabh",
-  productDescription: "Phone"
+  productDescription: "i-Phone for elite"
 }]]></ee:set-payload>
 			</ee:message>
 		</ee:transform>
