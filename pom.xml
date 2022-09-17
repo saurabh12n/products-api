@@ -139,6 +139,8 @@
 			<id>anypoint-exchange-v3</id>
 			<name>Anypoint Exchange</name>
 			<url>https://maven.anypoint.mulesoft.com/api/v3/maven</url>
+			<username>saurabh12n37</username>
+			<password>Ekaagra5678@</password>
 			<layout>default</layout>
 		</repository>
 		<repository>
